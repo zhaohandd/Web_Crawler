@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+www.sxt.cn	FALSE	/	FALSE		PHPSESSID	112r90jba14dh8m5m48c1da784
+www.sxt.cn	FALSE	/	FALSE	1539050941	acw_tc	65c86a0b15363725411842530e440c36c8cffc7b5d680c712d27c6267fee23
